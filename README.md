@@ -1,2 +1,5 @@
-# hackathon-2048
-code for the hackathon contest
+# 2048
+2048 (The Puzzle Game) made using Java
+
+
+![](2048final.png)
